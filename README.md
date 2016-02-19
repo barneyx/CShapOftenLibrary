@@ -1,5 +1,6 @@
 <h1>C#收集的常用的一些库CShapOftenLibrary</h1>
 以下是这个类库的所目录树
+<pre>
 │  BasePage.cs
 │  BindDataControl.cs
 │  ConvertHelper.cs
@@ -220,5 +221,7 @@
 │      
 └─验证码
         YZMHelper.cs
+		
+</pre>
         
 
